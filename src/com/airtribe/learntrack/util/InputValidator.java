@@ -11,7 +11,6 @@ public class InputValidator {
     public static boolean isPositive(int num) {
         return num > 0;
     }
-
     // Basic email validation
     public static boolean isValidEmail(String email) {
         if (email == null) return false;

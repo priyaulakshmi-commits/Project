@@ -5,7 +5,7 @@ JDK (Java Development Kit) is used to develop Java applications.
 It includes tools like the Java compiler (`javac`) and libraries needed to write, compile, and run Java programs.
 
 ## What is JRE?
-JRE (Java Runtime Environment) is used to run Java applications.  
+JRE (Java Runtime Environment) is used to run Java applications  
 It contains the JVM and standard Java libraries, but it does not include tools for developing programs.
 
 ## What is JVM?

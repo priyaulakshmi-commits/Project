@@ -27,7 +27,6 @@ public class Main {
 
             System.out.print("Enter choice: ");
             String input = sc.next();
-
             try {
                 int mainChoice = InputValidator.parseIntSafe(input);
 

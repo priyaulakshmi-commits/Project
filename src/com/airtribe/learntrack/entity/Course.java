@@ -15,9 +15,8 @@ public class Course {
         this.durationInWeeks = duration;
         this.active = true;
     }
-
     // getters & setters
-    public int getId() { return id; }
+    // public int getId() { return id; }
     public String getDescription() { return description; }
     public int getDurations() { return durationInWeeks; }
     public String getCourseName() { return courseName; }
