@@ -11,7 +11,6 @@ public class Student extends Person {
         this.batch = batch;
         this.active = true;
     }
-
     public Student(int id, String firstName, String lastName, String email, String batch) {
         super(id, firstName, lastName, email);
         this.batch = batch;

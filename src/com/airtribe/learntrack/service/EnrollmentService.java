@@ -42,4 +42,5 @@ public class EnrollmentService {
         Enrollment e = findById(enrollmentId);
         e.setStatus(status);
     }
+
 }

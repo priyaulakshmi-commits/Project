@@ -43,7 +43,7 @@ Benefits:
   are written **only once** in `Person`
 - Code duplication is reduced
 - Enables **polymorphism**, such as overriding `getDisplayName()`
-- Makes the design more scalable for future roles
+- Makes the design more scalable for future roles.
 
 Inheritance improves readability, maintainability,
 and follows proper OOP principles.
