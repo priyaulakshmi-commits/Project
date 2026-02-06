@@ -22,7 +22,7 @@ public class Main {
             System.out.println("\n===== LEARNTRACK =====");
             System.out.println("1. Student Management");
             System.out.println("2. Course Management");
-            System.out.println("3. Enrollment Management");
+            System.out.println("3. Enrollment Management.");
             System.out.println("4. Exit");
 
             System.out.print("Enter choice: ");
